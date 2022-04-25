@@ -70,6 +70,14 @@
     <img alt="Kafka" src="http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black">
   </a> 
   &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Hive" src="http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive">
+  </a>
+ &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Spark" src="http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black">
+  </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
@@ -77,7 +85,6 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -90,6 +97,18 @@
   <a href="https://www.w3schools.com/php/" target="_blank">
     <img alt="PHP" src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img alt="SQL" src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img alt="MySql" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/php/" target="_blank">
+    <img alt="mongoDB" src="http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb">
+  </a>
 </p>
 
  ### 👉 Software & Tools
@@ -126,6 +145,8 @@
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2" /></a>
 </p>
 
  ### 👉 Domain Knownledge
