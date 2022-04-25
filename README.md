@@ -59,39 +59,39 @@
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Scala" src="http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white">
+    <img alt="Scala" src="http://img.shields.io/badge/-Scala-dd3734?style=plastic&logo=scala&logoColor=white">
   </a>
   &emsp; 
   <a href="https://www.python.org" target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white">
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=plastic&logo=r&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Flask" src="http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black">
+    <img alt="Flask" src="http://img.shields.io/badge/-Flask-white?style=plastic&logo=flask&logoColor=black">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Kafka" src="http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black">
+    <img alt="Kafka" src="http://img.shields.io/badge/-Kafka-white?style=plastic&logo=apachekafka&logoColor=black">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Hive" src="http://img.shields.io/badge/-Hive-white?style=flat-square&logo=apachehive">
+    <img alt="Hive" src="http://img.shields.io/badge/-Hive-white?style=plastic&logo=apachehive">
   </a>
  &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Spark" src="http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark">
+    <img alt="Spark" src="http://img.shields.io/badge/-Spark-white?style=plastic&logo=apachespark">
   </a>
  &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=plastic&logo=pandas&logoColor=white">
   </a>	
   &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Numpy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="Numpy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=plastic&logo=numpy&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=plastic&logo=Keras&logoColor=white">
   </a>	
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -111,30 +111,30 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
-    <img alt="PHP" src="http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white">
+    <img alt="PHP" src="http://img.shields.io/badge/-Php-767bb3?style=plastic&logo=php&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
-    <img alt="SQL" src="http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white">
+    <img alt="SQL" src="http://img.shields.io/badge/-Sql-00758f?style=plastic&logo=Mysql&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
-    <img alt="MySql" src="http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql">
+    <img alt="MySql" src="http://img.shields.io/badge/-Mysql-white?style=plastic&logo=mysql">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/php/" target="_blank">
-    <img alt="mongoDB" src="http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb">
+    <img alt="mongoDB" src="http://img.shields.io/badge/-MongoDb-white?style=plastic&logo=mongodb">
   </a>
 </p>
 
  ### 👉 Software & Tools
 <p align="center">
    &emsp;
-    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"></a>
+    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=Elasticsearch&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Logstash" src="https://img.shields.io/badge/-Logstash-F2BD1A?style=flat&logo=Logstash&logoColor=white"></a>
+    <a href="#"><img alt="Logstash" src="https://img.shields.io/badge/-Logstash-F2BD1A?style=plastic&logo=Logstash&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E8478B?style=flat&logo=Kibana&logoColor=white"></a>
+    <a href="#"><img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E8478B?style=plastic&logo=Kibana&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
@@ -156,22 +156,22 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white" /></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-3776AB?style=plastic&logo=Python&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white" /></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Eclipse-007396?style=plastic&logo=JAVA&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2" /></a>
+    <a href="#"><img alt="VS Code" src="http://img.shields.io/badge/-VS%20Code-black?style=plastic&logo=visualstudiocode&logoColor=3aa7f2" /></a>
 </p>
 
  ### 👉 Domain Knownledge
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Computer Science Development" src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white" /></a>	
+    <a href="#"><img alt = "Computer Science Development" src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=plastic&logoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white" /></a>
+    <a href="#"><img alt = "Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=plastic&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
   &emsp;
