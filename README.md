@@ -88,14 +88,15 @@
 </p>
 
  ### 👉 Software & Tools
- 
 <p align="center">
+   &emsp;
+    <a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Logstash" src="https://img.shields.io/badge/-Logstash-F2BD1A?style=flat&logo=Logstash&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Kibana" src="https://img.shields.io/badge/-Kibana-E8478B?style=flat&logo=Kibana&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
   &emsp;
@@ -111,14 +112,13 @@
 </p>
 
  ### 👉 IDEs
- 
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Eclipse-007396?style=flat&logo=JAVA&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
