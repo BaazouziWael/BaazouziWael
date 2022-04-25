@@ -20,7 +20,7 @@
 - :technologist: I love using Big Data as a solution for every `Problem`
 - :computer: I am a competitive engineer
 - :student: I’m currently learning: `Big Data` and `Business Intelligence`.
-- :thinking: I’m currently open for: New `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/my-drive).
+- :thinking: I’m currently open for: New `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1u0jx1_UUSVh4MzSov0VYjQ9tF9qXl3L2).
 - :nerd_face: Always `learning new things`
 
 <br>
