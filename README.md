@@ -3,16 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=BaazouziWael&label=Profile%20views&color=0e75b6&style=flat" alt="BaazouziWael" />
 		   <img src="https://badges.pufler.dev/repos/BaazouziWael" alt="BaazouziWael" />
 		   <img src="https://img.shields.io/github/followers/BaazouziWael?label=Followers" alt="BaazouziWael" />
-</p>
 
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=BaazouziWael&label=Profile%20views&color=0e75b6&style=plastic" alt="BaazouziWael" /> 
-	<a href = "https://commits.top/tunisia.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="BaazouziWael" target="_blank"/> 
-	</a>
 </p>
 
 
