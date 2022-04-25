@@ -75,7 +75,7 @@
   </a>
  &emsp;
   <a href="https://www.python.org" target="_blank"> 
-    <img alt="Spark" src="http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black">
+    <img alt="Spark" src="http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
