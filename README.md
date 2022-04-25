@@ -62,6 +62,10 @@
     <img alt="Scala" src="http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white">
   </a>
   &emsp; 
+  <a href="https://www.python.org" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white">
+  </a>
+  &emsp;
   <a href="https://www.python.org" target="_blank"> 
     <img alt="Flask" src="http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black">
   </a> 
@@ -77,6 +81,18 @@
   <a href="https://www.python.org" target="_blank"> 
     <img alt="Spark" src="http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark">
   </a>
+ &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
+  </a>	
+  &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Numpy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white">
+  </a>	
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
