@@ -50,16 +50,24 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Tech Stack
 
-<p align="center"> 
+<p align="center">
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Scala" src="http://img.shields.io/badge/-Scala-dd3734?style=flat-square&logo=scala&logoColor=white">
+  </a>
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Flask" src="http://img.shields.io/badge/-Flask-white?style=flat-square&logo=flask&logoColor=black">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://www.python.org" target="_blank"> 
+    <img alt="Kafka" src="http://img.shields.io/badge/-Kafka-white?style=flat-square&logo=apachekafka&logoColor=black">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -69,14 +77,7 @@
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### 👉 Frontend Development
-<p align="center"> 
+  
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -84,6 +85,10 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="PHP" src=	http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white">
   </a> 
 </p>
 
